@@ -1,6 +1,6 @@
 # Dark Green Animated Login Page
 
-![Login Page](https://res.cloudinary.com/dptauqdp8/video/upload/v1692121968/Dark_Green_Animated_Login_Page_skkodc.mp4)
+![Login Page](https://res.cloudinary.com/dptauqdp8/image/upload/v1692122287/Screenshot_2023-08-15_215747_ikybxv.png)
 
 An eye-catching Dark Green Animated Login Page crafted with HTML, CSS, and JavaScript, offering both visual appeal and interactive animations.
 
