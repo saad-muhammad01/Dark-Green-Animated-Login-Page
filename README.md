@@ -2,13 +2,13 @@
 
 ![Login Page](https://res.cloudinary.com/dptauqdp8/image/upload/v1692122287/Screenshot_2023-08-15_215747_ikybxv.png)
 
-An eye-catching Dark Green Animated Login Page crafted with HTML, CSS, and JavaScript, offering both visual appeal and interactive animations.
+An eye-catching Dark Green Animated Login Page crafted with HTML and CSS, offering both visual appeal and interactive animations.
 
 ## Features
 
 - Stylish Design: The login page boasts an attractive dark green color scheme that exudes sophistication.
 - Animated Interactions: Engaging animations enhance user experience, providing a dynamic and visually pleasing login process.
-- Seamless Integration: The project is seamlessly developed using HTML for structure, CSS for styling, and JavaScript for animations.
+- Seamless Integration: The project is seamlessly developed using HTML for structure, CSS for styling and Animations
 
 
 ## Usage
