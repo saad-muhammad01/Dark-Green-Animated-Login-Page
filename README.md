@@ -1,2 +1,26 @@
-# Dark-Green-Animated-Login-Page
-I've created a sleek Dark Green Animated Login Page using HTML and CSS. This design features dynamic animations that enhance user engagement, showcasing my proficiency in merging aesthetics and interactivity seamlessly.
+# Dark Green Animated Login Page
+
+![Login Page](https://res.cloudinary.com/dptauqdp8/video/upload/v1692121968/Dark_Green_Animated_Login_Page_skkodc.mp4)
+
+An eye-catching Dark Green Animated Login Page crafted with HTML, CSS, and JavaScript, offering both visual appeal and interactive animations.
+
+## Features
+
+- Stylish Design: The login page boasts an attractive dark green color scheme that exudes sophistication.
+- Animated Interactions: Engaging animations enhance user experience, providing a dynamic and visually pleasing login process.
+- Seamless Integration: The project is seamlessly developed using HTML for structure, CSS for styling, and JavaScript for animations.
+
+
+## Usage
+
+1. Clone the repository: `git clone https://github.com/saad-muhammad01/dark-green-animated-login.git`
+2. Open the `index.html` file in your web browser.
+3. Explore the Dark Green Animated Login Page and experience the captivating animations.
+
+## Contributions
+
+Contributions are welcome! Feel free to submit issues or pull requests if you have suggestions for improvements or encounter any problems.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
